@@ -1,0 +1,6 @@
+.root{
+    width: 100%;
+    display: grid;
+    grid-template-rows: 1fr 95%;
+    grid-template-columns: 20rem 1fr;
+}
