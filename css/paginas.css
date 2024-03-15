@@ -1,7 +1,6 @@
 .paginas{
     width: 100%;
-    height: 91.7vh;
-    border: 1px solid black;
+    height: 97.7vh;
     grid-row-start: 2;
     grid-column-start: 2;
 
@@ -15,7 +14,7 @@
     width: 95%;
     height: 95%;
     margin: auto;
-    border: 1px solid black;
+    
     border-radius: 2rem;
 
     display: grid;
@@ -73,17 +72,3 @@
     margin-bottom: 0.2rem;
 }
 
-/* .linea{
-    border: 1px solid black;
-    grid-row-start: 2;
-    grid-row-end: 2;
-    grid-column-start: 1;
-    grid-column-end: 5;
-}
-.habilidades{
-    width: 85%;
-    height: 85%;
-    margin: auto;
-    border: 1px solid red;
-    border-radius: 2rem;
-} */
