@@ -13,7 +13,7 @@
 .parte_superior .logo{
     width: 4rem;
     height: 4rem;
-    background-color: rgb(93, 135, 228); 
+    background-color: rgb(148, 87, 148);
     border-radius: 100%;
     font-size: 1.5rem;
     font-weight: bold;
@@ -32,7 +32,7 @@
     justify-content: center;
     border-radius: 5rem;
     gap: 3rem;
-    background-color: rgb(93, 135, 228); 
+    background-color: rgb(148, 87, 148);
      
 }
 .parte_superior .btn_header{
@@ -40,10 +40,11 @@
     height: 4rem;
     background-color: black;
     color: white;
-    background-color: rgb(93, 135, 228); 
+    background-color: rgb(148, 87, 148);
     font-size: 1.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 5rem;
 }
+
